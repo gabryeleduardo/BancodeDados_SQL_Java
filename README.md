@@ -1,4 +1,4 @@
-# 📌 [Nome do seu Trabalho - ex: Sistema de Cadastro de Alunos]
+# 📌Sistema de uma loja gamer
 
 Este projeto foi desenvolvido como trabalho acadêmico para o curso de Análise e Desenvolvimento de Sistemas (IFTM). Ele demonstra a integração de uma aplicação **Java** com um banco de dados relacional **MySQL**.
 
